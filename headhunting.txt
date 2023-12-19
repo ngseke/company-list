@@ -9,3 +9,5 @@ Morgan Philips Group
 精英人力資源股份有限公司
 *藝珂人事*
 /ROBERT(.*)WALTERS/i
+昕擎人力資源有限公司
+台灣英特艾倫人力資源有限公司

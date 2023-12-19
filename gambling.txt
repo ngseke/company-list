@@ -45,20 +45,20 @@
 *芬格國際股份有限公司* # https://interview.tw/i/5bed977adb46101b79574a86
 峰馳科技有限公司 # https://interview.tw/i/651f89007cde3f572004c8d9
 華奧科技有限公司 # https://salary.tw/salary/6180dd2c079fa5739d554b22
-安璞資訊科技有限公司
-鑫鑫科技有限公司
-雷速網絡科技有限公司
-致宣有限公司
-尊承科技股份有限公司
-優訊軟體科技有限公司
-鑫鉑資訊股份有限公司
-台灣宸運雲端有限公司
-昕擎人力資源有限公司
-台灣英特艾倫人力資源有限公司
-格萊鉑數位股份有限公司
-禾碩資訊股份有限公司
-光曳資訊有限公司
-全球遊戲科技有限公司
+唐傳有限公司 # https://interview.tw/i/655066ad72cba53c590f7822
+瑞盈軟體有限公司 # https://interview.tw/i/654e47da2da3bdf35e039044
+安璞資訊科技有限公司 # https://salary.tw/salary/6278b97b083982190f795973
+鑫鑫科技有限公司 # https://interview.tw/i/618e4369719f9b3892504928
+雷速網絡科技有限公司 # https://interview.tw/i/6493bd3579c6dd77e500cc15
+致宣有限公司 # https://interview.tw/i/6332819a0a275f1876445352
+尊承科技股份有限公司 # https://interview.tw/i/614c5beae9161c5f002bdc78
+優訊軟體科技有限公司 # https://interview.tw/i/607f5d5d63eac24c825be9d2
+鑫鉑資訊股份有限公司 # https://interview.tw/i/65475a072dc5993b9102f282
+台灣宸運雲端有限公司 # https://interview.tw/i/60740c9fc08ed96941687529
+格萊鉑數位股份有限公司 # https://interview.tw/i/5ed46659db4610243e3ede65
+禾碩資訊股份有限公司 # https://interview.tw/i/64eff4f18cf1e4f4080a0518
+光曳資訊有限公司 # https://interview.tw/i/604f08364043b9526465ad62
+全球遊戲科技有限公司 # https://interview.tw/i/605a0dd0a984e036fc3a1fa2
 普羅傑有限公司
 元亨文創娛樂有限公司
 松泉科技有限公司
