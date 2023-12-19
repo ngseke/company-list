@@ -59,27 +59,26 @@
 禾碩資訊股份有限公司 # https://interview.tw/i/64eff4f18cf1e4f4080a0518
 光曳資訊有限公司 # https://interview.tw/i/604f08364043b9526465ad62
 全球遊戲科技有限公司 # https://interview.tw/i/605a0dd0a984e036fc3a1fa2
-普羅傑有限公司
-元亨文創娛樂有限公司
-松泉科技有限公司
-黃金娛樂科技有限公司
-火龍數位科技遊戲有限公司
-前思資訊有限公司
-紅檜科技股份有限公司
-鑫鼎鑽科技有限公司
-皇喬投資股份有限公司
-長青資訊股份有限公司
-*韋博科技有限公司*
-益晟人力資源有限公司
-藍窗科技有限公司
-倫塔股份有限公司
-耀點國際有限公司
-云桐科技有限公司
-遊戲河流有限公司
-誠帷數位科技有限公司
-凱駿科技有限公司
-得威信軟體有限公司
-宸和數位科技有限公司
+普羅傑有限公司 # https://interview.tw/i/5d4bc701db461029f45ce053
+元亨文創娛樂有限公司 # https://interview.tw/i/5e66814adb46101c1708f3e2
+松泉科技有限公司 # https://interview.tw/i/63ac286f0cfb7df1c30bc2c4
+黃金娛樂科技有限公司 # CakeResume:"需有博弈相關經驗。" https://www.cakeresume.com/cr/104-company-1a2x6bl0hz-978dce/game-planning-9452f5
+火龍數位科技遊戲有限公司 # (原:黃金娛樂科技) https://interview.tw/c/EWmy
+前思資訊有限公司 # https://interview.tw/i/6232bd754d33b93ff657ef46
+紅檜科技股份有限公司 # https://interview.tw/i/62b9908ad19a6f0129784c1b
+鑫鼎鑽科技有限公司 # https://interview.tw/i/6075ac978e691e355a723a34
+皇喬投資股份有限公司 # https://www.dcard.tw/f/job/p/230150586
+長青資訊股份有限公司  # https://www.dcard.tw/f/job/p/230150586
+*韋博科技有限公司* # https://interview.tw/i/62738fe4c14ed802fd7843e2
+藍窗科技有限公司 # https://interview.tw/i/63ad0769915bbb6ef4002eec
+倫塔股份有限公司 # https://interview.tw/i/6446656a76db39291201aa32
+耀點國際有限公司 # https://interview.tw/i/5e16bebedb46101d0b4f99f5
+云桐科技有限公司 # https://interview.tw/i/652f8875f8d62118fe006b52
+遊戲河流有限公司 # https://interview.tw/i/5fd22c0b17305207f67e616c
+誠帷數位科技有限公司 # https://interview.tw/i/62bc82d53c53e23ff16a6d62
+凱駿科技有限公司 # https://interview.tw/i/5d2b5b87db4610169a355963
+得威信軟體有限公司 # https://interview.tw/i/6302403659e1fa0ee93c9652
+宸和數位科技有限公司 # 104:"機率工程師" https://www.104.com.tw/job/7z6cx
 微樂應用科技有限公司
 碩鋒數位科技有限公司
 澄映科技有限公司
