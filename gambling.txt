@@ -79,16 +79,13 @@
 凱駿科技有限公司 # https://interview.tw/i/5d2b5b87db4610169a355963
 得威信軟體有限公司 # https://interview.tw/i/6302403659e1fa0ee93c9652
 宸和數位科技有限公司 # 104:"機率工程師" https://www.104.com.tw/job/7z6cx
-微樂應用科技有限公司
-碩鋒數位科技有限公司
-澄映科技有限公司
-樂澄娛樂有限公司
-奕虎科技股份有限公司
-享奕軟體開發有限公司
-樂夠科技有限公司
-泰偉電子股份有限公司
-寶凱電子企業股份有限公司
-糖蛙線上娛樂股份有限公司
-樂志數位有限公司
-大師科技有限公司
-*崴拓資訊有限公司*
+微樂應用科技有限公司 # 104:"遊戲軟體開發公司" https://www.104.com.tw/company/1a2x6bmmys
+澄映科技有限公司 # https://interview.tw/i/6532aaf0e40f1c3af90ee73a
+樂澄娛樂有限公司 # 104:"機率工程師" https://www.104.com.tw/job/81axy
+樂夠科技有限公司 # https://interview.tw/i/64b5f61daea0af1dfe04d4c2
+泰偉電子股份有限公司 # "彩票與博彩" https://www.astrocorp.com.tw/about.php
+寶凱電子企業股份有限公司 # https://interview.tw/i/5fe9c5008c1fea1b486efd36
+糖蛙線上娛樂股份有限公司 # "線上娛樂城的翹楚" https://www.ton-wa.com/
+樂志數位有限公司 # "博奕類專案" https://www.cakeresume.com/companies/gamebase-news-topic-86402459?locale=zh-TW
+大師科技有限公司 # CakeResume:"博奕類型遊戲" https://www.cakeresume.com/companies/104-company-1a2x6bkwvc/jobs/frontend-engineer-9f1ec9
+*崴拓資訊有限公司* # 104:"遊戲產業" https://www.104.com.tw/company/1a2x6bmmjk
