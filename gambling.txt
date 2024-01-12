@@ -32,6 +32,7 @@
 勝和科技有限公司 # https://interview.tw/i/64c3c43ad831365f930a5ff2
 智湧科技有限公司 # https://interview.tw/i/644107c10dbedfd2df096c22
 /OpenNet(.*)開網/ # https://interview.tw/i/64d9e57c03f6132aa90678c2
+OpenNet
 禾智有限公司 # "博弈相關" https://interview.tw/i/63e5ff8745a8ca26830ce3a4
 格拉墨科技有限公司 # https://interview.tw/i/6256dfbfc9e58108ee4e633b
 凱得威有限公司 # https://interview.tw/i/6256a9c52163cd32662b7522
