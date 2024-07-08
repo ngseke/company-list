@@ -5,6 +5,7 @@
 1. **博弈產業**<br>https://raw.githubusercontent.com/ngseke/company-list/main/gambling.txt
 2. **軟體外包/接案**<br>https://raw.githubusercontent.com/ngseke/company-list/main/software-outsourcing.txt
 3. **獵頭**<br>https://raw.githubusercontent.com/ngseke/company-list/main/headhunting.txt
+4. **銀行**<br>https://raw.githubusercontent.com/ngseke/company-list/main/bank.txt
 
 ## 說明
 
